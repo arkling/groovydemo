@@ -1,4 +1,3 @@
-#!/usr/bin/env groovy
 /**
  * Test some basic language features
  * works with groovy-2.1.7 or better
